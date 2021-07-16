@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Daniel
-#### I am an Android Engineer from Nigeria
+#### I am an Android Engineer
 ![I am an Android Engineer from Nigeria](https://media.giphy.com/media/VEWTq89VrV2qB6LzVh/giphy.gif)
 
 - I love building optimised and scalable mobile applications using latest technology. I love attending conferences and connecting with friends across the globe. 
